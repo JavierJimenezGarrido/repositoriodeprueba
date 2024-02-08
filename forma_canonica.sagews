@@ -1,4 +1,4 @@
-︠d0f345ac-ab7b-4381-903f-ce5249a8efe2︠
+︠d0f345ac-ab7b-4381-903f-ce5249a8efe2  (Deberías quitar esto)
     n = 4 # numero de neuronas ESTO IRÍA FUERA
     m = 5 # número de palabras en el código
     GF2 = FiniteField(2)
